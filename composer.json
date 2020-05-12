@@ -1,5 +1,5 @@
 {
-  "name": "LenderSpender/php-cs-fixer-rules",
+  "name": "lenderspender/php-cs-fixer-rules",
   "description": "Lender & Spender's shared PHP style rules for PHP-CS-Fixer",
   "license": "MIT",
   "require": {
