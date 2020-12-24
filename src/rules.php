@@ -10,7 +10,7 @@ return [
         'phpdoc_order' => true,	
         'yoda_style' => false,	
         'compact_nullable_typehint' => true,	
-//        'declare_strict_types' => true,	
+        'declare_strict_types' => true,
         'explicit_indirect_variable' => true,	
         'explicit_string_variable' => false,	
         'fully_qualified_strict_types' => true,	
