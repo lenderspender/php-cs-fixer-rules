@@ -3,7 +3,7 @@
   "description": "Lender & Spender's shared PHP style rules for PHP-CS-Fixer",
   "license": "MIT",
   "require": {
-    "friendsofphp/php-cs-fixer": "^2.18.5"
+    "friendsofphp/php-cs-fixer": "^3.0"
   },
   "autoload": {
     "files": [
