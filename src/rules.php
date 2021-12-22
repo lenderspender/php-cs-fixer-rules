@@ -4,8 +4,11 @@ return [
     '@Symfony' => true,
     'binary_operator_spaces' => [
         'operators' => [
-            '=>' => 'single_space'
+            '=>' => 'single_space',
         ]
+    ],
+    'types_spaces' => [
+        'space' => 'single'
     ],
     'array_syntax' => ['syntax' => 'short'],
     'linebreak_after_opening_tag' => true,
