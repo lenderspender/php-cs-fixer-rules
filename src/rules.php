@@ -30,6 +30,7 @@ return [
             'constant_public',
             'constant_protected',
             'constant_private',
+            'case',
             'property_public_static',
             'property_protected_static',
             'property_private_static',
@@ -62,5 +63,10 @@ return [
     ],
     'php_unit_test_case_static_method_calls' => [
         'call_type' => 'self',
-    ]
+    ],
+    'global_namespace_import' => [
+        'import_classes' => true,
+        'import_constants' => true,
+        'import_functions' => null,
+    ],
 ];
