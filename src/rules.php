@@ -69,4 +69,5 @@ return [
         'import_constants' => true,
         'import_functions' => null,
     ],
+    'nullable_type_declaration_for_default_null_value' => false,
 ];
