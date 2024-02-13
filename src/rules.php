@@ -40,6 +40,7 @@ return [
             'construct',
             'destruct',
             'phpunit',
+            'method_public_static',
             'method_protected_static',
             'method_private_static',
             'method_public',
