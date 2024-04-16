@@ -70,4 +70,7 @@ return [
         'import_functions' => null,
     ],
     'nullable_type_declaration_for_default_null_value' => false,
+    'phpdoc_to_comment' => [
+        'ignored_tags' => ['var']
+    ],
 ];
